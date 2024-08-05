@@ -1,0 +1,19 @@
+.title {
+    text-align: center;
+}
+.post {
+    background-color: white;
+    width: 50%;
+    margin: auto;
+}
+.post-header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+img {
+    width: 100%;
+}
+p {
+    padding: 20px;
+}
